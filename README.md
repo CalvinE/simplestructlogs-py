@@ -4,6 +4,10 @@ A simple wrapper around the python standard logging library that supports struct
 
 JSON logs are supported out of the box, but you can write your own log record classes to support other formats!
 
+## Install from PIP
+
+[PIP Package](https://pypi.org/project/simplestructlogs/)
+
 ## Example Usage
 
 ```python
